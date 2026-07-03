@@ -1,0 +1,2 @@
+# Organic Minerals Website
+Starter project.
